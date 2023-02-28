@@ -1,0 +1,3 @@
+C:/Users/xindong/CLionProjects/C-Test/cmake-build-debug/CMakeFiles/C__20Test.dir
+C:/Users/xindong/CLionProjects/C-Test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xindong/CLionProjects/C-Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

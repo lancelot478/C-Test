@@ -1,0 +1,8 @@
+# ninja log v5
+4	1125	6991919892055116	CMakeFiles/C__20Test.dir/main.cpp.obj	d70e2c648b8626cb
+1126	1348	6991919894231198	C__20Test.exe	1bb051e76e8fffc6
+5	1122	6988403223217542	CMakeFiles/C__20Test.dir/template_module.cpp.obj	b2e95c6e6954811
+11	98	6988403212970134	CMakeFiles/C__20Test.dir/util.cpp.obj	2578913e8a3ab121
+21	1197	6988403223952088	CMakeFiles/C__20Test.dir/optional_test.cpp.obj	ba2cb731b26692e3
+9	930	6991918822485494	CMakeFiles/C__20Test.dir/union_test.cpp.obj	cabd7f9a5a29073d
+9	958	6991919890357716	CMakeFiles/C__20Test.dir/dfs797.cpp.obj	85350a3a38059289
